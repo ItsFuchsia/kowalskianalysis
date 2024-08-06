@@ -1,0 +1,590 @@
+U2 R2 L U' R D' B' D F R B' L2 D2 B D2 B' R2 D2 F2 D2 : y2 U' R L2 F' U2 L // cross
+U' R2 F2 U B2 U2 B2 D' B2 L2 B' F' U' R F U F' D L' D2 : y x2 R' U R' F D D F' U' L U L' D' // Xcross
+R B2 D2 U2 L2 D2 R F2 U2 F2 R2 D' U B' L R2 D F' D U' R2 : y U' R' F R' D F' // cross
+D2 R2 F' U2 B R2 B R2 U2 F D2 R' B2 U' F' R B2 L' B2 L2 : y' x U2 L2' R U' R D // Xcross
+L2 D2 R2 B2 F' D2 U2 L2 B2 F L B' U2 F' D U B L D2 : z' R' U' R' D x R' F R D // Xcross
+L R2 U2 R2 D2 B2 R D' L' R2 U' F R' D2 R2 F' R2 U2 : x' y2 R U' L2 F' // cross
+R B L2 D' L' F' R' B2 D U' L F' U B' R B' D L' U' : y U L F' R' u' U2 R U' R' D U2 R B' R' // XXcross
+U2 F2 U' L2 D2 U L' U B' D' R F2 R F2 U2 R2 B2 F' : x' y U2' D' R' F // cross
+R' D' B' L D' B' F' L B R D2 B U' F D' F2 R2 : z' R' U L2' // cross
+B2 F' R2 D B' F2 D L2 B D F2 U' B' L D' L2 B2 : x' z r' L' D' L F D' L // cross
+D2 L' B2 R B2 R2 B2 L' U2 B U2 F2 D' L2 R' U F' L F' : x2 r' (U' D') R' D' x U R' F R // Xcross
+B D2 F' R2 F' L2 D2 R2 F' L B F U R2 D U2 L D2 L' R2 : y' x' R2 D2 R' U' F' // cross
+U2 B2 L' U2 L' U2 L2 D L' B2 L R' U' R D' B D' L : z y2 U R F R L2' // pseudo xcross
+D L U' B' R' F2 U2 R2 D' F' R2 U2 F R2 L2 U2 R2 L2 B' R2 : z x2 U x' R' D' R2 u' // cross
+U' R2 D R2 U2 R2 B2 D2 F2 U' L B' L' F' U2 L2 D R2 F' R2 : z (l R) D' R' D F2 U R R' U' R U R' U L U L' u' // XXcross
+D2 F2 D2 U2 B L2 U2 L2 R2 B L' B L2 R D F' D' F2 U2 F' : y F' R2' D2 F2 R // cross
+D B R' F2 R D F R2 F2 L B2 D2 F2 D2 R' U2 R2 F2 D' L : y' D x' D' r R' d' R2 U' u // Xcross
+F' U2 F L2 F2 D2 U2 B' U2 L2 F2 U' F' D2 F2 L' B' D' L' B2 : y D2 L U R' U' R F2 D // Xcross
+D' B' U' B2 U' R U2 B2 U' R2 F D2 B2 R2 F2 L2 D2 R2 B L2 : y x2 U L U L F' D2' L' D2 // cross
+U' B' L B2 U2 F2 U R F2 L' F2 R' B2 R2 B2 L U2 R F U : y' U' R' U' F R' L2' D2 // cross
+B2 L B2 U2 B' R2 B' L2 B' R2 F R2 F2 R F2 D' B' D L2 R' : y x2 D' L D' U' R y' U' R' F R // Xcross
+D2 F2 D B2 F2 L2 U2 R2 D F2 D L B D2 L' U' L' B2 R U : z2 U R2' D R2 U2 L' u2 // Xcross
+B2 R2 B2 L2 D' L2 D F2 D F2 U2 L' B' L' B F L2 R2 D' L R2 : y' U r U' r' D2' F U R' U2' R2 U R' D E' // XXcross
+F' L D F' B2 R L' F' U2 B2 L' F2 R U2 B2 U2 R2 L' D2 : y2 x D2 r D R' y L' U L D' // Xcross
+R2 D' R2 U R L' U R L2 U2 F2 R2 B U2 B U2 D2 F D : y D r U x' U R2 u' // cross
+D2 U2 L' D2 L2 U2 R D2 L F2 D' L2 B' D L' F U F' L2 : x' y' L2 F' R' D L D' // cross
+D' L B2 R2 D' R2 D' U2 L2 B2 F2 D2 L2 B' F' L' U' F' L' D B : y x2 U R U' B' U' R' F R // cross
+R U2 R' D' F U' F2 L B' U2 B R2 U2 F' U2 R2 L2 F' U2 F2 U : y' U R2' F (U' D) // cross
+R U' F2 L2 F L D2 L F2 U2 F U2 F' D2 F' U2 B2 D2 B' : x2 R' F R D U L u' L U L' u' (D' U) L U L' u // XXcross
+U2 F L2 B' L2 F2 R2 F R2 F' L2 R' B R2 B2 D U2 L D' B2 : x' y D F U R U R // cross
+F U2 L2 R2 F' D2 B L2 F L2 F U' L B2 L2 F D2 L' B' U R2 : x' r' D' L' U' R' F R u' // cross
+F U' B' R' L' F2 U B' L' R2 D2 F2 R2 D' R2 B2 D B2 L2 U' : z2 U' R' F R' U L u' // cross
+L2 D' F2 L2 U L2 U' L2 D2 L2 U R D' B F2 R' D U B2 U' : y x' (D' U) r U' r' F r U r U' r' y L' U L u // XXcross
+L R2 F U' B D2 L2 R D' L' U2 L2 B U2 B2 R2 B' : z2 D' R' D R D R' F R // cross
+B2 U' F2 D U' B' U' L2 F D B2 L R' B2 F2 U' R U : x' r' U' F' R2 u L U D // cross
+U' F2 D2 F' U2 L' U B2 F' U2 F2 R' D R F2 D2 L2 R' : y x' U2 R D R // Xcross
+R2 B2 F2 R2 B2 L D2 B L U' B2 F R2 B L' D' R' U' R2 : y x U x' U' F R' D' R D // cross
+L2 D F2 D2 B2 R B2 L2 U B2 L' R' B R' B' F' D2 U' L : z2 R' D' R D' R D // cross
+F2 D U R2 U' F' R2 D U2 R U B F2 R' U' F2 L' D' : x y D' r R' y L' U' R2 // Xcross
+U2 R' D' F' U' L' D R2 U R2 F' L2 D2 L2 F' B' R2 U2 F' : y R F R2' D R' F R U' D' // cross
+L' B' U2 L D2 B2 F2 L D2 F2 U2 R' D2 U' R' U' B' R2 U' D B : z y U x' U' R2 D r U' r' // cross
+F U B2 D F2 R2 U2 F2 D' L2 R2 U' R2 L F R D2 U' R' D2 F' : z' D L R F d' U' R' U' R' u2' // Xcross
+D L' F2 R2 B R2 F' R2 D2 F R2 D2 B2 D2 L U' F R2 U2 B L : z' y U L2 F' U R' U' R L' U' L D // Xcross
+U' B2 L2 U' R2 D2 F2 D F2 U2 L F R D2 B' R' B2 L' D' F' : x' r' D' F' L' D' R' u' D' // cross
+F2 R2 D2 F2 D R2 F2 L2 B2 D2 U' R2 U' L' B F2 D' F' L2 U' L' : z2 R' F U' R2 D F // psuedo cross
+F U2 F2 D2 B' L U B2 R' B R' D' F2 D2 F L D' : y R' F D2 d' R U' R' U' R' U R d R' F R // xxcross
+L2 F2 D' U2 R2 B' L' R' B' R F D' B L2 B' L' B2 D2 : y D' R U F L2' u U' U R U R' U' R U R' D // xxxcross
+R2 D2 L2 D2 R2 B2 F R D2 L B U L' U' B2 F' R' : y L F' L' d' U' R F R // cross
+L2 B2 L2 D' U' F2 L B2 F L' B' U R2 F' D2 U2 L D B' : x' z D2' x L U u' U' R' F R D y' r U r' D' // xcross
+U' R2 D' L2 D' R F2 D2 L2 F L' U R F' D' B U B' : x' z D R U x' R' U' R D L2 F' L' // xcross
+F2 L' D2 F2 L F' L2 R2 B D' L D' R B D' F' R2 B2 : y2 z' D' L R' u R' u' // cross
+U2 L' U2 L2 B2 F2 L' B2 F R' B2 D' U B' F' U' R D' L R2 : y' z D' R F L' U' R' // cross
+U2 F2 U2 F R2 B F2 U2 B U' L' B2 L B' R2 D F2 R2 D' : y z2 R' D' U' L' U R' D' R U' R2' // xcross
+F2 R2 F' D2 B' L' F L' D R B' F' U B L' D2 B' U' F2 : z' U' L D' L' F' L2 D' R' F R // cross
+R' U2 R2 F2 D2 L2 F2 D B' F D2 R B' R' B R U F' : y2 z' L D2 R D' // xcross
+F D' R2 U2 B' L U R B2 D' F' D2 R' U R' D' B' L2 U L2 : x' l U r' D' r B D // cross
+R2 F' U2 F2 L' F L F R' D B U2 B' U2 L2 F2 R2 F : y' U' R2' D2 R2 D R2' u' // cross
+U2 R2 F2 U2 L R B L' F' D' B2 L D F' U' F D2 F' : z2 U D' R' y' R L F' L2' // cross
+R' D2 R F U' B' F D L' D' U2 L U' B2 R2 F2 R : y' r U' r' R U R' D y' L F' // xcross
+F2 L2 U R2 D R' F L' B' R2 D' B2 R2 B F2 L' B : x' z R u' R L F' L // cross
+R B2 L' D2 R F' R' F2 L D F' U' B2 D2 F D2 L B' : x' z r' R U2' R F R' u' U' U' R U' R' D R' U R D // xxcross
+F L2 B2 U2 B' D R F' U' B L' D' B' R' F2 D' B U' :  
+F2 U2 L' F' L2 U' F U2 R2 D R2 D L' B' L B2 L' D' R' D : x2 y' B U' R U' R D U' R2' U R // xxcross
+D' B L' U' F L U2 F L' U R U2 R' U B' L U F2 L' D : y' D' U R' D' L D2' // cross
+D R' D F2 R2 U F L' F L' D' B' R' B2 D F' U2 R B U : z2 R B D R U' r U' r' // cross
+F2 L2 U L' D' B' R B2 R F2 R F' L2 U' B2 U' R F2 D2 F' : y' R' F D' R' D L2 F2' L' D' // xcross
+F' L2 U2 F U' B' D' L2 F2 R2 U B2 U L B2 R' U2 F2 L2 U' : z' r' D R D' // cross
+D L' D2 L' B R2 B2 U B2 D2 B2 L2 U' L' B U2 L D' B2 R2 : z2 U R2 U' D R' F2 R D // cross
+B' F' U2 B2 D2 R2 F' R2 U2 L2 F R' D' F L' U2 L F L2 F2 : x r U' R2' D2 // cross
+U2 R' D' F' U' L' D R2 U R2 F' L2 D2 L2 F' B' R2 U2 F' : y R F R2' D R' F R U' D' // cross
+L' B' U2 L D2 B2 F2 L D2 F2 U2 R' D2 U' R' U' B' R2 U' D B : z y U x' U' R2 D r U' r' // cross
+F U B2 D F2 R2 U2 F2 D' L2 R2 U' R2 L F R D2 U' R' D2 F' : z' D L R F d' U' R' U' R' u2' // xcross
+D L' F2 R2 B R2 F' R2 D2 F R2 D2 B2 D2 L U' F R2 U2 B L : z' y U L2 F' U R' U' R L' U' L D // xcross
+U' B2 L2 U' R2 D2 F2 D F2 U2 L F R D2 B' R' B2 L' D' F' : x' r' D' F' L' D' R' u' D' // cross
+L' B D2 F B2 R' D R2 B2 D2 F' R2 D2 B D2 L2 F2 L2 D L' : z' y D R U' U R U' R' F R D2 R' U' R U' R U' R' u' // xxcross
+D' R B D F2 U B2 D' R2 U B2 D' R2 B2 L' R' U' B L' B L' : z2 y U F R' U L D U' R y R' F R D // xxcross
+R B' R B' R2 L' F' L2 U R2 U F2 B2 L2 U' R2 D' R2 U2 L' F' :  
+R2 U' B2 U2 L2 U L2 U B2 L2 D' L2 B' U B R F' U' B' D2 F2 : y' U' R2' F2 L u // cross
+F D2 U2 L2 F' D2 F2 D2 F L2 B D R B2 R2 F U L' F D : x' l U D' R U R U' D2 F2 // xcross
+D2 L' F2 L2 R2 D L' R2 D2 R2 F' D' F D2 U' B D' F : x z r R' U F U' D R // xcross
+D2 F B2 U R2 D L2 B2 U B2 L2 D2 U' L' F U2 F L2 D F2 :  
+L D' B2 U B U' D' R2 F R' U2 F2 B2 L2 B2 R F2 R' D2 B2 : x' F R L D' L' U' u // cross
+L F L2 U2 L2 D2 B2 U2 B' D2 L2 F2 R' B2 U' F L' D R' U' R' : y F' R2' F R D2 U F D U R U R' U R U' R' D2 // xcross
+B D2 L2 B L2 R2 F' L2 B' D2 F' R2 U R D2 F' R2 B2 U L' F' : y' F D' R D F R' U' L L' U' L U L2' U L u' // xxcross
+F2 U' R2 F2 L2 U' F2 L2 D F' R' U B L B' D' R2 F D : x' z2 L U r U' D' R' F R // cross
+B2 U' F' R2 B2 L2 F' U2 L2 U2 F2 L2 D F' D' B L B F' : x' D r' u U2' L' U R U R // xxcross
+U' F2 R2 U B2 L2 D2 R2 F' U R B' L U2 F L D' F2 : y z2 D R F R2' D2 U' r U' r' // cross
+B F2 R D2 F2 L2 U2 L' U2 R' D2 F2 R U' B' L' D2 B2 L' F U' : z2 y F' D L F' U D' L D2 // cross
+R2 F2 R' D2 R' F2 D2 L' D2 R D2 F R' B L2 D' L' U' R' D2 : z2 U' x' D' R' r2 U' r' u // cross
+R2 F2 U' B2 L2 U' R2 D B2 U L U R2 B L2 B U2 L' F' U : x2 y F l' L2 D' L' D' L2' L F' U F L' U' D' // xxcross
+B R2 D L2 U' F2 L2 B2 R2 F2 D U F R' B2 R U' B L' D' : z2 r' U' r' D' F' R U R' U' R y' R' U R2 U' R' D2 // xxcross
+U2 B2 F2 L2 B2 U2 R' B' U2 B D2 L' D F' L2 U' F D2 B2 : y R2' U2' F2 D' F' U D' L' U L D U r' U r // xxcross
+U2 B2 R2 U2 F2 L U2 R2 B2 U L' R U B' R D' U2 R U : x' y' l U L2 D' U L' D' // cross
+D2 F D2 U2 B L R D2 U' B L2 R2 B2 L' U2 F2 D2 B2 : x y2 U' R' D x R' // cross
+D' F2 D' B2 L2 F2 U2 L2 F2 D' L U' B2 U L B' R2 F U F' : z R F R2' D L' U L U' D // xcross
+B2 R' U2 R2 D' L D' R' B D' L2 U' F D F' D' B R' : x' r' u' r' D' r D2' L' u L' // xcross
+L2 R2 F' D2 F L2 D2 B' F2 U2 R F' L2 B U' B' D' R U' : x y R r U' r' U L' R' U' R D // xxcross
+D2 U2 L U2 B2 L2 R B' F' D F2 D F2 L D' B2 F' D' B2 :  
+D2 F2 L' U2 L' D2 B2 U2 L2 U R' D2 U L' R' F' D' F' U2 : x2 U R2' F // cross
+L2 B2 D L2 D' L2 D2 F R' D' L F' L F U' L2 B' R' U : z' y r' U F R U R' U' R U' L' U2 L U L' U' L u' // xxxcross
+D2 B2 D B2 U' F2 D2 U' B2 U R' D2 R' B L2 D B2 R2 F2 : x2 y R' D R2 D2 U L U2 L U R2 // xxcross
+F2 D U F2 D2 F2 L' D R' F R F' L' R' D' R' D' L' : z2 R' F R U' U R D U' R' U2' F2 U R' U' R u' D' // xxcross
+R2 B2 D' F2 L2 F2 L2 D U2 R2 F' R2 U L' B D U L F' U2 : z' D F R' u' // cross
+F R U2 R' D B R U2 B U' L F L B2 L' D L2 D2 B2 L : y z' R U' L2 F' R D // xcross
+R U' B' D F2 L2 B R B2 R B' R F U2 L2 U F2 D2 F' R' : y2 U r U' R L F' L' u' u' // xcross
+F L' U' F' R U2 B2 L2 D F' R2 B2 L B' R2 F2 R' B2 L B : x2 D R' U D F2 U' L U2 L' U R2 // xcross
+F R' U R2 U' L2 F' D F2 U R' U2 F2 R2 U2 R' U2 F D' L : z2 y D' U R' D R' F // cross
+U' L D2 F L' F2 L' B' D F2 R' B L D2 L' D2 F2 D' L U2 : y' D B' U2 R D2 // xxcross
+R2 F D2 L D F' D2 B' R D2 B' U2 L' D' L' U' B R D B : z2 D R F D2 // cross
+U' L2 D L2 B2 L B2 R' F' U' B2 L U' R2 B2 U L U' F L' : x' z U2' R2 L2' u' // cross
+D L U' F2 U' L2 D L' B2 R' B2 U B U F U' B2 U2 R F2 : y' U L F' D' R' F2' R2' F R d R' U R D' // xxcross
+U' B2 D F2 U' L2 F2 R2 B2 F2 R D R2 B U2 R F' R2 U2 : x' r' F D' U' L' D' R // xcross
+D2 B2 U2 B2 U2 R2 B2 F2 R2 U2 R2 U' R B2 U R F D B2 D' : x2 y R u L' D // cross
+D' F2 B2 L D' R2 U F L2 D2 R2 L2 D' B2 L2 U' B2 U F2 : y z2 R' F U D' R U' R U R U' R' y U' R' U' R U R' U' R u' // xxxcross
+U R2 B D' R D R2 F D2 L' F2 R' F2 D2 R' U2 F2 L' F2 R F' : z2 y D' U L' L' R' F U D' R' F R D2 // xcross
+L R2 B2 U' L2 F2 U R2 U2 L2 D B2 D B' L B' D2 R' B' L2 U : x z2 F' r' R' F' D R U R U' R' u' L U2 L' U' D' // xxcross
+D2 F2 U' B D L2 U F2 L' U2 R U2 D2 R' U2 B2 R U' F : x U' x' L2' d' L F' L' U' R' U R2 U R' u' // xxcross
+F' L' B D' B2 R' B2 U2 B' L' F D2 R D2 L D R' B' L B' : x' z' U' F' U' R2' F' L2 F' L' // cross
+B2 L' F L' U L' B D F D R2 B' U B' D' F U2 L2 D F : y z' r' R U R F U' D' R U R' L D // xcross
+B D' L2 D2 B' D' F2 L2 U R2 U' B2 L' B' L2 B2 U L B' U : z y2 L2 F' L2' R' U' R u' R2' D' // xcross
+F L2 B' L2 U F2 L F2 D F U' B U' L2 U2 B2 U R2 U' B2 : x z2 U' r R2' U2' R' F R2 U R2' U R D // xxcross
+D' L' F2 R2 U2 L' D B R' U' R' B' D' L' B2 R' D' R D B' : y2 z L' U' R' F R u' // cross
+F U2 F2 U' R U' B2 R' B2 D L2 U' L U F U2 B2 U2 R D : x' z R2 D r' R' F U2' R u' // xcross
+D2 F2 D' F2 L' U L' B' R' U' B2 R' D' R U' F L U' B2 U2 : x2 U' R2' D R2 U2 R' U' R F L F' L' // xxcross
+D R' B2 L2 F2 D2 B2 D' L U2 F2 L2 B2 D2 R F' D R2 U' B2 : y' z R' U' r D R' U L' U L D' // xcross
+F' D' R2 F2 R2 U' B R B' U' L' D' L B2 R2 F2 L' U L U' : y' U r' U' R2 U' x' u D // xcross
+B U2 F U B U' L U L B D' F U2 B R F R' F' U' R : x2 D' R' D R u L F' L' // cross
+L B L F U' R' F D' R' B L U R2 B U2 F L' D L' U : y D F2' L2' y L U L2' U L U' L F' L' // xxcross
+B' U L2 U2 L' D' F D2 B' U2 F' D' B' D2 R' D F D2 B' D : y z' l u' L' D' R' // cross
+U' B' R2 F' D2 B' D2 L2 B' R2 B' L2 B2 D' L F' R B' U2 F U : y' L D' F' L2' u R2 U L' U L2 U' L' U L U L' u // xxcross
+U R' F D2 R2 F2 R2 U2 B' R2 F2 R2 D2 B2 L D2 B' U R2 F2 U : x' z D2' U' L' F' L' // xcross
+L2 D2 F2 L' D2 B2 L' U2 F2 D2 R U L' B D' U2 L B U2 F D2 : x' z2 D U' R B' R2' U2' R' F R2 U' R2' U R // xcross
+B' D' L2 R2 D2 L2 D F2 D R2 F2 D' B2 F L' B2 R D' R2 U' F2 : z2 y U R' F' R U' U D' R d' U' r U' U' r' // xxcross
+D F R' U2 B' U' R' U R L2 D B2 D' R2 F2 U2 B2 D' F2 D F2 : x z D' R' U U' R' U r u2' // cross
+F L2 F' R2 B D2 F2 U2 F' R U L' B2 D2 L2 U L' B' : y z' R' U F R2 D2 U' L2' // xxcross
+B R' U2 F2 L F2 R' U2 B2 L B2 D B2 L' D' R2 B' L2 D : z2 r' R F2 U' L2' U u' U' R' F R D // xcross
+B2 R2 B' R' U2 D F' R F2 R2 U R2 F2 B2 U2 D B2 D2 L2 B' : x2 y L F' R2 U' U' R' u' u' // xcross
+L' B R2 D' F2 U2 F2 L2 F2 L2 D' L2 U2 R' F D2 F L2 U L2 : x2 y U2 r' D' r D2 L2' U2 r U' r' y L' U L D // xxcross
+L' D' L2 B2 D L2 D' L2 U B2 U B' L2 F L2 R' U' F L2 R' : y z D' L' R' F' D2 R2 // cross
+L D2 L2 R2 B D2 U2 B' U2 F R2 D L2 U B2 D R F2 D2 : x z' U B' F U L' U' R' d' U' R' F R D // cross
+F' L' B' D2 F D R D2 B L2 D2 F' B2 L2 U2 F' D2 F2 U2 L : y' U' R2' D R2 U' R U R' D U' L F' L' D // xcross
+L2 F2 D' L2 D' F2 L2 D B2 U' L2 R' U R U L' B' F2 D' B2 : x' y r U' r' // cross
+R' B F2 R D2 L' D2 R2 U2 B2 L' B2 U2 R2 F R2 U F2 D' B2 L' : x2 R2' F R D R' F R D // cross
+R D2 R D2 U2 L B2 D2 R' F2 L F U' R2 F' R F R D B' : x z' l D U F R2 // xcross
+F' D2 R B2 R' F2 L2 U2 L' R2 B2 R2 D L' F D' L2 R F R : x y2 L U L l U R' F R2 // xxcross
+U R' L' F U R L B U2 R F2 L F2 L' B2 R' U2 L' U : y' L2' U D' L R' U' R' U R U2 r U' r' // xxcross
+D' B2 L2 B L2 F2 U2 F' L2 F' D2 U B' R2 D B F' D' R' : x' z' U' R F // cross
+D' F2 L' F' U' B2 D' U2 F2 R' U2 L' F2 R' F2 D2 F2 R B U' : x' z' D' r' u R y L // cross
+L2 U' B R F' L B R F2 D2 F R2 B U2 R2 F B L2 U2 R2 : x2 y B U2' R U' R2' F L R2 u R // xcross
+U L2 F2 D B2 L2 R2 D L2 D2 R' U2 B R B F' U B U' F2 L : x' y' U' R' F R D L' U2 L' // cross
+L' D L' F D B L2 D' R B' R' B2 D R2 F L' D B L D' : x2 y D U' R L U L2' U L U' y L U' L' u // xxcross
+L B' L2 U2 L' D2 L' U2 F L2 B2 R2 D2 F2 R2 D' R B2 L' D' : x y r R' E' R' F R D L' u // pseudo cross
+D R2 B2 R' F' D B2 R' D2 F U R' U2 L B2 D2 R D2 L2 F : x z U' F' U L2' u U2' R2 // xcross
+D2 F D R F2 U F' R2 F2 L U2 L B L D2 B2 U2 F' R' D : z2 F' R' D F' R U R' U' R U R' u' R2 U R U R' D U R U' R' D2 // xxcross
+L2 F R' F D F2 L2 F R' B2 L' F2 U' L B2 L' U' L2 F R' : z' y' D' R D r U' r' u' U' R' U' R D U2 F2 // xxcross
+L' D F L' U2 B R D' B2 U L' U B2 L' D' L' D R' U2 R2 : x y' U x' U2' r U' R' F2 R // xcross
+L2 D L D2 F' D2 B' D' L2 U L B U2 L' U' B L' F2 L2 B2 : z2 y D F' D L' D // cross
+U2 B2 D2 B' L D' F' R' B D2 R B2 D L' B2 U2 B D R D' : x z' L F' L2' D2' U' L D2' // cross
+R2 F2 R' D R2 D F' L B' D R2 D' F2 D' F2 R B2 R' U2 B2 :  
+B' U' L2 U2 L2 D' B U' F2 U' L2 D B2 U2 R D' F2 R' D' L' : y D U L2' U' R' U R U' R' F R2 // xcross
+D B2 R2 D2 L B2 U' R2 F R2 D' L2 U' R' B2 U F' D F D2 : z y U' l' U R' F D2 R U' R // cross
+D2 L2 D L2 U2 F2 U' B2 L2 D2 U' B L B' D F' L2 F2 L B :  
+B F2 L2 B2 F D2 R2 F' U2 L2 R2 D L U R' U F L : x R' F R U2' R U L U' L' D // xxcross
+F2 U2 F2 D L2 D L2 U' F2 D' R' D' B F' U2 L' B' F2 U B R2 : y' z D R' F R U R2' U' R U' R U R' L d U u U' R' F R // xxcross
+B2 R2 D L2 R2 D B2 U2 F2 U L B' R D' U' R F' R' F' L U2 : x' z2 r' R U R' U D R U R D U' r U' r' D L U' L' D2 // xxcross
+B2 F2 D2 L2 U' B2 U2 B2 R2 U' F' U2 F' L2 R' D' B2 L' R D R : x2 D2 U L R' U R U' R' // xcross
+F2 L2 D2 L2 D R2 U R2 B2 R2 B U2 L R' U L D B2 L2 R F' U' : z F' U' R2' U2' R U R' D L' d L F' L2' // xxcross
+D U B2 F2 U L2 B2 U F2 U2 B U R' U' L' D' U' F2 L2 D' F U' : x2 R' F B' R' U' D // cross
+F2 U' R2 F2 D' U2 B2 F2 U' R2 B2 U2 L B U' R F D' R2 U2 B' : z' y r' F r3 U' r' R' u' // cross
+D2 L2 R F2 L2 D' L2 D' R2 U R2 F2 D L' F' L D2 B L' D2 : x R' D r D2 y L // cross
+D' F2 D2 U' F2 L2 U' B2 R2 F2 R2 L F R U' B F' U R D2 : z2 U L F' R' U2 L2' D' U2' R U R' D' // xcross
+R2 F2 U R2 D2 L2 U L2 B2 U' L2 U R' F2 U L B2 L U2 B R' : x' y' R2' r U' L' U L2 F2' L' D2' // xcross
+F2 L D' F2 U2 B2 U2 L2 B' F2 R2 F2 U2 D' R2 F L D L R : z' y2 r' R U' R' F R2 // cross
+U2 R2 D U2 R2 D' L2 U' L2 U2 L B2 L D' U' L' B F U' B' U' : x' z R L' U l U' D2 R2' F U' F // xcross
+L2 B2 R2 U' B2 U F2 R2 U L B2 D B U B2 L F R D' : x' z2 r' F r2 R U' L' U L U' D R' U' R U' R' F2 R D // xxcross
+F2 U2 L2 B2 L2 U B2 F2 R2 F' D' U F2 R B' L F2 D' B L2 : x2 L R F R2' D2 F' // cross
+U2 L2 U R2 B2 F2 D' L2 R2 F2 L' F U F2 D' R' F' L R' D2 F2 U' : z D U' R U' D R' F R2 U' R' u' // xcross
+F2 U B2 D B2 L2 D' L2 U L2 F' R2 D L' F' D2 F' D2 U2 R' F2 : x' z2 r' D F' R U' D' R2 D // cross
+L2 D' F2 D' L2 U B2 U' F2 L2 F U B D' F' U F2 U' R' U : y z' l L' F U L2 U' R D' L F' L' // xcross
+D' R' D' R B' D' B' D R' D2 R2 F D' F2 R2 F' L B D L' : x' y R' D2 U' F' U' R' U R U D' R' F R D // xxxcross
+F2 R' B2 L2 B2 U B' R U' B' R' B2 L F2 U R2 F' R2 B' D' : y' D' L2 F' L' // cross
+U R2 F2 L2 F2 U' L2 U' R2 D R D F D2 R' B2 U2 B2 L2 D R' : y z' D R' F R U D' F2' R' F' // xcross
+B2 U F2 D F2 U' L2 D' U2 L2 R U R B D2 L F' U' F D2 R2 : y2 D U L' F' L2 U R D' L // xcross
+R2 D2 R2 U B2 L2 D' L2 D2 R2 F D2 R' D' F U L2 U' B' U2 F' U' : x z' U' U U' R' F D2 r U' r' D' R U R' // cross
+R2 U R2 D B2 D' R2 B2 L2 B2 L F2 D' L F U2 B' D L B2 L U : x' z' r' u R2' D R U' R U' D' // xcross
+U2 B2 R2 D F2 U L2 D F2 L2 B R D2 U2 R2 D' L F' U' L2 U : x' z U' r' R' u' U' L F' L2' U' L D2 // xxcross
+R' U2 F' U' R' L' D R' F L' D2 R F2 R U2 B2 L' U2 L2 D2 B2 : z2 y U R D F2 R U' R // cross
+D' R2 F2 L2 R2 U L2 U' B2 D' U2 L' D' F' U' B2 D' L D' R : z' y U R' u' U R' U F R // xcross
+L2 F2 R' B2 D2 U2 L' U2 L2 U2 F2 R' D F R' D' L2 B' F R2 D : x z2 F' R2' D' R D2 // cross
+B2 F2 D B2 D' B2 D2 B2 R2 D' B2 U' R D2 B2 D' R2 D B F' U' R2 : z2 R' F r U' L F' U L' U L D' // pseudo xcross
+D B2 U R2 F' L' U2 R F U2 F2 L' D2 B2 D2 B2 R2 B2 R F2 L2 : z D' F' D' R' // cross
+L2 U R2 D L' F2 B' R F' B2 L2 F2 D' L2 F2 U F2 R2 U2 R2 F2 : x' y2 R B D F R F R2 // xcross
+B2 D R2 U R2 U R2 U2 F2 D' B2 U' F U F2 U2 R U2 B' L' B D2 : y U R' F R D F2' L' U L' // cross
+B2 D2 R2 D' F2 L2 B2 L2 D F2 R2 D' R U2 B' D L' R' D' U F' :  
+F D2 F R2 F2 U2 F L2 F U2 F' L' D L R' B' U' B F L2 : x r' F R u' F D' R' U' R2 u' // xcross
+D2 F2 R U2 L' F2 R2 U2 L D2 R' D U L2 F D' B' L R' F2 : x' y' D R F R' D2 R2 U' R' u' // xcross
+B L2 B2 R2 F' L2 U2 B' U2 B U2 L2 R U' F2 R U2 F L' F2 R' U' : y' U2 r U' r' U' R2' D2 R2 U R2' R R' U2' R u2' // xxcross
+B2 U' F2 U L2 D2 B2 L2 F2 D B2 U2 F' R D2 B U L2 R2 B U B2 : z' y' l D L R F L' U L U R U' R' D // xxcross
+D2 R' B' U2 L D B D2 R B D2 F U2 R2 F' U2 B' D2 B' R2 F2 : z' y U l' L2 F' L2' U L D y D // xcross
+B2 R2 D2 R U2 L' D2 R F2 L2 U2 R' D' B' L B' F' R U' F : z' y U' R2 U R2' u l U2 l' // xcross
+F' D' L' D R U' B2 L D2 L2 F' R2 B U2 L2 U2 B2 D2 B' U2 : z2 L u R B' R2' F R D // xcross
+B U' F U2 D' B2 R' L2 F D2 F2 R D2 L U2 R U2 F2 U2 : x2 y R2 U' R' D L F' U L2' // xcross
+U L2 U B2 D' B2 U B2 U2 B2 R2 D2 F R' F2 R2 B' L2 F2 U2 : z' y' D' R' L2 F' L' // cross
+R' U2 F R2 L D R' B2 U2 B' R2 L2 D' F2 R2 F2 B2 U D2 : z x' D B R' F2 U' R L' U L U' L' U L D // xcross
+U L2 B R2 F L2 F' D2 B R2 U2 D L' D2 R' U' L U2 R : y R u R' U' r U' r' d' R' F R // xcross
+U2 F' D' L' B R2 U D B2 L' F R2 F2 D2 B U2 F' U2 F' R2 : z r' U r D' L' F' U2 R' U R U' R U R' D // xcross
+L B R L F' U F2 U F' B U L2 D R2 B2 U2 F2 L2 U : x2 U R2 D R' F R' D2 U' R' F' R u' L' U L D' // xxcross
+L2 R' B2 D2 L' R U2 D' F2 L F' U L' R' B2 R' B L2 : z y' r' R' F' R' U R D L' // xcross
+D' F2 B2 U' R F' B' L' U' B2 L2 D2 L D2 L B2 L2 B2 : x2 D R' U F U' L R' D u' L U L' U' L D // xcross
+B D2 R' U2 L U2 F2 L B2 L' R2 B2 R2 F' D B L' U2 R2 D2 : x z' D U' r' D // cross
+R B' R' U2 F2 D2 R2 B' L2 F R2 B' L2 F2 R' F D U' L2 B : z2 D' R' D L F' L' R' D // cross
+L B' D' F R2 B L2 B R2 B' U2 L' F' D2 B' L F R U2 : y2 L D' R' F R' U' y' R' F R // cross
+R' B2 R D2 U2 R F2 L2 F2 U2 L' U' B F U2 R F2 D F D2 : y U L' F' U' D' R2 U L F' L' // xcross
+L2 D B2 U L2 U' B2 R2 D2 L2 R2 B2 R' F D' U B2 L2 B R B2 D' : x2 y B R' F R2 d R' F R // cross
+R2 F2 R2 F D2 F2 U2 F D2 F R2 D2 L U' F2 U R' F2 R2 B' L2 : y2 F' D2 L' U R U' F R' D2 // xcross
+D' B2 L2 B2 F2 U F2 U B2 D2 B2 L2 B' U L' F2 R2 B' F2 U' R2 F2 :  
+B2 F2 R2 U L2 U L2 D2 B2 U2 F2 L2 B' R' D' R2 U2 R F L F2 D2 : x y2 r' U' R2 D R' D' // cross
+R2 U' R2 U2 R2 F2 U' L2 U' L2 D F L2 F2 R' B D2 L' U2 B : x y' x' R2 D L F' L2' U2 L U' R' U2' R D // xxcross
+R2 B' R D2 L' R2 B2 D2 L' R2 B2 F' D2 R B2 F2 D' L' R2 : x y2 U' D x r' D R E' // cross
+R2 B2 D R2 F2 L F L2 F U' D L2 U B2 L2 B2 F' R2 : z2 y F' R' U2 R U' D L F' L2' F' U L F' L' // xxcross
+F U' F D' R D L F D L' U2 R2 B2 D' F2 L2 U L2 B2 : x D' R' D R' U R' U' F R // cross
+R2 U2 B' D L' R2 B2 L2 R' B2 D2 B' D F2 L' B F U' : x' y U r U' r' U R' D L u // cross
+R' B2 U R F' R2 U2 F U2 B2 D L2 U' B2 D2 B L : x2 r' U' R2' x F' U' L U L2' U L E' // xcross
+R D2 L F2 D F' B' L U B2 U2 R2 U' B2 D' B2 D B2 D2 R2 : z y' L D' R U' L' F' L' E R U R' D' // xcross
+F2 D' B2 U L2 U' F2 U L2 D2 B2 U' F' L2 U' F L' B' F' D' B' R : y' R2' D R2 F' E' // cross
+R U2 R' B' R D2 R F R U' R2 F2 U L2 U R2 U2 R2 F2 U : y' F' R D' R2' U' R U' R' u' // xcross
+U' F2 D' R2 D B2 D2 F2 L2 F2 D L F' R' D L F U' B' F U : z2 y D U F L' R' y R U R' D // xcross
+U F2 U' L2 B2 U' L2 F2 U' F2 L2 U' F' R' U' F' R' F' L' B D' R2 : z2 R' U R' D R2 F' R' R' U R u2' // xxcross
+L2 F2 L2 R2 D F2 R2 D2 F2 R2 U R D L' U' R2 F' L B L U2 : y' U R F L2 D // cross
+R2 U' R2 D F2 U2 F2 D L2 D' R2 D' L' U' L' B2 L B D U2 F' U : z2 U F R' U' D R' D' L2' U' D R' U' R u' U D' // xxcross
+R U' D R2 F' R D' L U' F' L2 U R2 D' R2 U' R2 L2 U' R2 D R2 : y R' F' U' L D L D2' // cross
+B' R U R2 F U' F2 B' L D B2 U' F2 R2 D' F2 U F2 B2 U2 B2 : x2 y U2 L2 F' u' u R' u' L D L' U' L U L' E // xxcross
+F' D2 B R F2 B D' B' U B2 R2 B2 U2 D2 R2 D2 R U2 L B2 L : x y2 r B D R' D L' y' U' R' U R U' D' // xcross
+B2 U2 F R' U2 L F D L' F' D2 F R2 B' U2 F R2 F U2 B' L2 : z2 y D' L' F' L2 B U' R' // xxcross
+U2 L2 F2 R2 D F2 L2 R2 D F2 U B F' U' L' F2 L' R' U2 L' : z' y' U r U r U' r' // pseudo cross
+D2 U2 L2 B R2 B R2 B2 D2 B' R2 B D U F2 L' B2 R' B' D' R2 F' : x y2 D U R U' U' r D' // cross
+R2 B2 U2 R2 F2 R2 B2 U' L2 R2 U L2 B L2 U R' B2 F2 U' L2 U2 : x U2 R' U' x' L2' D' // cross
+R2 U2 F2 L2 B' D2 R2 U2 R2 F R2 F2 R' B2 R B' D' U2 L' B' D2 : z' y' R U l D L' F' L U L' U D // xcross
+R2 D2 B2 L' B2 D2 L F2 L2 U2 F2 L F' U' L U L D L2 U B' : y U R B' R2' U F' D R' U' U' R U R' D' // xxcross
+F' R2 B D2 F R2 F D2 B L2 F' D2 L' B' F2 U' F U2 B F2 L2 R : y R' D R D U F R' U' R U' f R f' U D // xxcross
+L2 U' F2 R2 D2 F2 L2 D' L2 F2 U2 B2 L U F2 L B' U L' D L' D2 : x' z2 l U D R' F R2 U R' L U L' u // xxcross
+B2 D' B2 D2 F2 U F2 D' F2 U2 L2 F2 L' B F2 L' U' B' F' U2 L' : x' D' // cross
+L F B2 U' R U2 L D' R U2 L' F2 B2 R' F2 R' B2 U2 B2 U2 : x r' U' D' R' U F // xcross
+F' R F' B' U' F U2 D R U2 F2 R2 B2 D R2 D' F2 D2 B2 L2 D' : z2 y D' r D U' R' U' D' R2 D' // xcross
+U B2 R2 B R' F2 B L' U L2 F2 D R2 U D2 R2 F2 B2 U B2 : y' l U' D' R // cross
+B2 U' R2 D' B2 D B2 R2 D B2 L2 D2 B' D2 F' L' U' F L' D' U B' : z2 y U2' F2' R' L D L F' L' // cross
+D2 R2 U R2 F2 D R2 U R2 F2 U' B L F L2 F U2 B' L F' U2 : z' y' D' U' F R2 D L2' U R U R' U L U L' D // xxxcross
+F2 L2 F2 D2 L' R U2 L' D2 B2 U2 R2 D' B' R F2 U' B' D' R2 U' :  
+R U2 R' D2 B2 R' F2 R' U2 L' D2 L2 B R D2 B2 F U R2 D2 B : z y' U x' D2 l' // cross
+B2 R2 B2 D2 B2 R D2 L' R2 F2 R' B2 U' L2 R' B R2 D F L' U' : y D' L F' L2' R' u R' // cross
+D' B' L' F2 U2 L2 D L2 F2 D' R2 D2 L2 B R B' R2 B' R2 B' : x2 y F' D L R2' F R u2' // cross
+R' U' F' R' D' B2 D' B' L2 B2 U2 L2 F U2 L2 B' R2 L' D2 : x y2 D2 L U R2' F R2 // xcross
+U' D2 B D F D2 L F U2 F' U2 F2 U2 R' F2 B2 D2 R2 L' : y F R' D' R U' R2' U' L // xcross
+L2 D2 L2 B L2 U2 F R2 U' F2 D' F' R' F L F2 L2 D' L : x2 y U l D R U' x U' R U' R' D' // xcross
+B2 L2 U2 B2 R2 F L2 F' D2 L B' F' U2 R' D' U R U R2 D2 : x y U' L U L F' U' L' U L u U' R' D L' U L D2 // xcross
+U' R D2 R2 U' L2 B2 D L2 D2 F2 L' B' F' U L2 F D2 R : y L2 F' L' U' D' R' F D E' // xcross
+D B D2 F2 U' R2 D R2 D2 F2 L' B U B D' R2 U F' R :  
+R' D2 L' D R L' D2 L2 F L2 B2 L2 F L2 D R2 U2 : x2 F2 D' R2 U' F F // cross
+L2 F2 U2 L2 B D' F R2 L F2 L U2 L' F2 U2 F' D R2 : x2 y U R2' D R r U r' u2' // xcross
+B' U' B D2 B2 L' F2 D B2 U2 D2 B U2 F D2 L2 B D2 F' : z2 y U L2 U' R U' R u // xcross
+L2 R2 F2 D' L2 U L2 D' R2 U' L2 U2 L U B' L2 F2 R2 F' D F' U : x2 y D U' R F R2' L' U L D // xcross
+L' F2 L D2 R F2 D2 F2 L2 F2 L2 R' D R B' L F R B2 D L' : z' y U x U' r' D' F' R' F2 // xcross
+B2 L2 F2 D' B2 U L2 D' B2 U' R2 U R' U2 B' U R2 F2 R F' R2 : y U R2 D R' L U U L' u // xcross
+D R L' U R2 U2 F D' B U2 F2 D R2 F2 L2 U' L2 B2 U R2 U' : y U D' R F D L // cross
+L B2 U2 F' D F R' B' D2 B2 R2 L2 U F2 B2 R2 U2 D' R2 B2 : y U L' R2 D L // xcross
+U2 F D2 B' L2 B2 D2 U2 F' D2 U2 F2 U L' F' L F2 R U' L F2 :  
+F2 R2 B2 D' L2 U2 R2 U F2 D' U2 R' B L R' U B' F L2 D' R' :  
+L U2 B2 L2 F2 L D2 R2 D2 L F2 D R F2 D2 F R' F2 L : x D2 R' U2' R U' L2' // xcross
+B2 U L2 D2 R2 B2 D F2 L2 U B2 D2 B U2 R' F' L2 B R2 U' L U' : x' U' R D R' B' U' R' U F R D L' U L2 U' L' D // xxcross
+R2 U2 F D2 F2 L2 D2 R2 D2 F' R2 B' R F U' R2 F' U' L B' D R2 : z R2 U' F' L U R U R' E' // xcross
+U' F2 L D B2 D' F2 R2 F2 U F2 L U R' B2 U R2 F' U : y' U R2 U R2' L2' U r U' r' D // xxcross
+L2 D' L2 U B2 L2 D' L2 B2 U2 B D' F D2 L F' U' L F2 D' R' : x z' l U D' R L' y' L' U' L U R U' R' D' // xxcross
+B L2 F U2 B2 U2 F' U L F' U2 B R D F L2 U : y2 z' U2' L R U x' U R' y' R U' R' U' L U L' u' // xxcross
+B' D2 U2 B D2 B' R2 F2 R' U2 B' F' L2 D B D' B D' L' : y' x' D R U' r R2' F2 // cross
+F L' D' L' U2 R D2 U2 R2 B2 U2 F L' R B' L' F2 D' F' : z y' L x B U' R2 u L' R' F R2' U' R' u' // xcross
+U' L' U R2 B2 R2 B2 U2 F2 D' B2 U2 L2 R' D' L2 F L U' L : y2 U D L F U R u // cross
+U2 L2 R2 D' B2 R2 F2 U R2 D2 B' D2 R' F D' B2 U L B2 U' : z' y2 U D' L R F R' D R' U R D // xcross
+R2 U' R2 D B2 U F2 L2 D U2 R' U L2 R2 D2 R' F' U' B2 F' : y' D' R2' U' R D R' // xcross
+F2 U' F2 U L2 D F2 U B2 U2 F' U' R' F' L' D L2 B' D2 R U2 : x2 L' B' R' F R2 D2 // cross
+R2 F2 L2 R2 U' L2 U2 R2 F2 U2 R' F' D B' D2 R' U B U' B R' : x y D R2' F R U' u' // cross
+U' B2 U B2 F2 D L2 D B2 D R' F2 D B' R' B F D2 U F2 L U2 : x2 U R' F D R' F R D // cross
+U' R2 D2 B2 D F2 D' L2 R2 U' B' D U2 R D2 L D2 U' R' B2 U2 : z y' r' F2 R2 U' D // cross
+B2 R2 D' L2 U R2 D' R2 U R2 F U R U' F L U2 L B' U' :  
+F' B2 U R2 D' L2 F2 U' F2 U' B2 F' D2 F2 D L F2 D U R' : x' z' R2' F D L' R' F U' R // cross
+D2 B2 R2 U2 F2 D L2 D2 L D' R' F D R' B2 U' F2 R' D : y z' L2 F' U' L' R u R U R' U' R U R' D // xxcross
+R B2 L D2 R D2 F2 L' U2 L2 F L' D R' B' U L2 B' D2 : x2 y F' L E' U' R U' R2' // xcross
+F' L U2 L2 F2 L D2 U2 R B' U' L2 F R2 D' B2 L' R2 D :  
+L2 U2 B2 F2 U B2 U' F R F' D U' F' L D R' F' U2 : z' y2 D R2 r U' r' D // cross
+B2 U2 L2 F2 R2 D' B2 F2 D R2 B L2 D R U' F' D U2 R B' D : y F R' D' R2 U R' d R U' R' u R' U' R u // xxcross
+F2 U' F2 U' R2 F2 U2 B2 D' L2 R' D' U F D' L2 D' L' F2 R' U2 : y' U' F2 R2 u' R u' // cross
+L2 U L2 R2 F2 D B2 U' F2 L2 F' R2 F2 R B U' B' F' R2 B2 U' :  
+L2 D2 B2 F2 U' F2 D B2 R2 D' R D' L R2 B R B2 D' F2 D' F' U' :  
+F2 R2 F2 L2 R2 U' L2 D2 B2 U' R U' B2 F' U R' U2 B' F2 U2 : x' z2 U' R' L' U D' // cross
+F D' L2 F2 L2 F' U2 L2 F R2 F2 L' U2 B' D2 U R' B' : x2 y L' B' R2' F D2 // cross
+R' B2 R D L2 U F2 R2 D F2 B' L2 D' U' B2 D' B' D' : x' y' U R2' D R D' // cross
+F2 D' R2 B2 D U2 B2 R2 D2 L2 B D B L R2 F' L2 U B' : z2 y r2' D' R2 u' F' R U' R' u2' // xcross
+L' F' R2 F' D' F' B D' B2 D2 L2 B2 R2 F2 U R2 L F2 R2 : y' R' F U' L2' u' R2' U' R D // xcross
+D B L B' R2 D' R2 U' L2 D' U2 R2 L' F2 U2 R' : y2 r2' R2 D R' L u' L' // xcross
+D B2 D R2 U2 L2 F2 U' B2 L2 D' L R' U' F' U2 R F D U F2 :  
+D' R2 U F2 D R2 U' F2 L2 B2 U2 R D R2 F' D U2 L' R B D' : x' D' U R' F R2 D' // cross
+D' F2 D' F2 R2 D' B2 R2 U2 L2 D2 L' B' D R B F2 L' R' F D : y U' D R' D F U' R' U R D' // xcross
+F U2 B2 D2 U2 B' R2 D2 R2 D2 F' D L2 B' L' U' B2 F2 L D' R : x' y2 r' R' U F2 R U2' R // xcross
+D L2 F2 L2 D2 F2 U' F2 R2 D R2 F R U' F2 L' F L2 B D2 R2 : y' U' D R D F' L2' // xcross
+B2 L2 D' R2 D' R2 D2 F2 U' F' D' U B' L' D F' L' F L U2 : x' y L' U' L R D' // xcross
+D L2 U2 L2 F2 U R2 F2 D' U' B L D F2 L' F' R' B R B' D2 : y l2 F L2' D' U2' R' F U R2 // xcross
+R F L' R2 F2 R2 U' B2 L2 D' L' B' D2 F2 L' D B F' : x2 R2 B' R' U' R U' R' u' R' F R L2' d r U' r' // xxcross
+R2 L' D2 B' R B' U L' D2 R' D2 R B2 R U2 B2 D2 F' L' : y U' R2' D R2 d' L2' // cross
+R' F' L F D' B2 D2 F2 R2 U F2 R' F U2 R D' B2 F' : x y2 L D' l' U2' R U' R' U F' // xcross
+R L2 F2 L2 B U' F D L2 U2 R' U2 B2 R2 L' B2 U R B' : x2 B R' D R2' F D' R U' R' u' // xcross
+B' U F2 U2 R2 D' F2 L2 F2 D F L' F2 D' F2 D2 F2 U' B2 L' :  
+U' L2 B2 D' R F L D' R U' B2 R F2 D2 R2 U2 L F2 : x' L F' D' R' D' U L U R' F R2 // xxcross
+R2 B2 F2 D' U' F2 L2 D' R F L' B R' U F2 U B2 L D : x2 U L F' L R' D' R2 D2 y L // xcross
+L2 B2 L2 R2 F L2 D2 B' D2 R2 B' U2 D L D U2 B' D B2 : z2 r2' D R F' R // xcross
+R2 B2 U' B2 L2 D B2 U' L2 U' L D U R F' L U F D U' R2 : z2 L D' R' U2 L2' // pseudo xcross
+F2 U2 B2 U2 R F2 L2 F2 D2 L D2 B' D' F2 L' D' F2 L B2 R2 : y z U R2' F r U' r' u' // xcross
+D2 L2 D2 B2 U2 L' F2 R2 U B2 D' F' D' L U F' U2 B2 R : x y D R' D F2 R2 // cross
+B U2 R2 B U2 B2 F' U2 F2 U L' D' U' L D2 B D L2 U' : x' y D' R F' U' D // pseudo xcross
+D' B R B U' L2 D2 B2 F2 R2 U R' B U' B' R' B2 U2 : x2 y U' D R' B' u' L' // xcross
+D2 F2 D L2 U' F2 L2 D2 L2 D' B' R2 B' F' D' R D' B' L2 U : x2 y D' L U' D L2' y R' F2 R U' R' F R D' U R' U' R D' // xxcross
+D2 B2 L2 R2 D L2 R2 B2 R2 U2 F U B2 L' D' U2 F' R B' F : z y' l' L2 D' L' // cross
+B2 F2 R2 U' B2 R2 U B2 D R' D B' D2 L U2 L2 F' U2 L U' : z y' r' R U' u' F R // cross
+D' U' L2 U R2 U2 B2 L2 F2 U2 R U B L D2 U2 F U' R2 D' U' : z y' U' l u' L' L' U' R // cross
+U R2 D2 U F2 D' R2 U F2 U' L D B R U R2 B2 L' R2 B : x2 y U' R' U F R' D D R // cross
+L2 D F2 U' L2 B2 U2 B2 R2 D2 F' R B' F2 R' F' D' U' L' U' R U' : x y U R F R D' R U' R2' u // xcross
+U L' B' U' F2 U2 B D2 F L F D R2 U2 L2 D2 F2 D' :  
+F2 B' R2 L2 U' D2 L U2 B L2 F U2 B L2 U2 B2 R2 D R F' : x y2 U' R' F' R2 r' D L' U L2 L' U' L u // xxcross
+B' R2 D2 R B2 R' U2 D' L2 D F R' B' D B R' F : x y2 R' U' R r U' L F' u' // xcross
+L U' D2 R D2 B2 L' R2 B2 F2 U' L D' L2 F' U B D2 R : x' y' D r U' r' U2 R u // cross
+F' U' B R2 B2 D2 R2 B' U F' D2 R2 F' R' D B2 U : z2 F R2 u' L L' U' L U L2' // xcross
+U L2 B2 U' B2 D2 R2 B2 L2 F2 R U2 L B U L2 B' L' B F : y L F' L2' U2 R2 D' // cross
+U' F2 D R2 D' B2 R2 D F2 R2 B U' B2 U2 F' L U L R' D' :  
+U' R2 D' B2 U L2 U2 B2 R2 D2 R' B' L U2 B2 F' D' F L F' U : y' R L2 F' L' D L U L // cross
+R2 D U R2 D F2 R2 F2 D' U B L D B2 D' R2 F' L' R2 U2 R' : z2 y U' R' F D2 F' // cross
+L2 B2 L2 D L2 D2 U L2 D B R2 U F D F L2 U2 L' D2 R : z D R U' R2' U L' // cross
+D2 L2 D' L2 B2 U' F2 U' L2 U2 B' D' U' B' F L F' D2 R B2 L' U2 : z2 y R' D U' R' F2 L // cross
+R2 F2 D B2 R2 U2 R2 U' L2 R U' F' R U2 R2 B' D' L' D' L : y' D R' F' U' D L // pseudo cross
+F2 L2 F2 U2 L2 D R2 D' F2 R2 B' R' D2 B2 D' U F' D' R D' R' U' : z2 D R' F' D' // cross
+D' L2 D' F2 D' B2 U2 B2 U' L2 R' B' L2 F D' L2 F L U2 R' F' U' : z y' R' r2 U' r' D L // pseudo cross
+F2 L2 U2 F2 U R2 U R2 U2 R2 B' L R2 F' D' R2 B R' D L2 F' : y2 r2 R' E' R' U' F D' // cross
+ :  
+ :  
+L2 D' R2 U F2 U B2 L2 F U L2 F U' B2 L' R2 F' U' : y L' B' R2' F2 R2 U2' R2' U' R2 U' R' D // xxcross
+F2 U' L2 B2 D' F2 D' F2 L' U2 R B D' F2 L R B' R U' : y' D F R' U' D U' R' F R2 // cross
+F2 U' R2 U' R2 U2 R2 U L2 D F' L' U' F L2 R' U' R' B' U R2 : z2 y R' F R D' R' U R U' R' U R U' R' D // xxcross
+D2 B2 U B2 R2 D U2 R2 F2 U B' L F2 L2 D R2 F' L' D B R' U2 :  
+D2 B2 F D2 F L2 F' L2 R2 F L U2 B D2 F L D' B' U2 : x z' L U R D x U' D L F' L2' U L D' // xcross
+F' B' D2 L U F' L2 U D2 R2 D B2 U2 B2 L2 B L2 D2 : z2 U' R2' F R U L' L' y U' R' u' R2 // xcross
+D2 R2 U B L2 R2 F2 U B2 U2 R2 U2 R F' R2 B L' F2 L2 : z2 R' L' F' L2 u D L2' D' // xcross
+R F' U L' U2 F' D2 R2 B' U2 F2 D2 U R D2 B' L' R2 D : x2 R F R' D2 // cross
+D' F2 R' F' B D2 L' U F2 R2 U' F2 B2 R2 D2 F2 D' R2 U2 F' : x2 U D R' F R2 U' D L D2' // cross
+U' L2 D' B2 L2 R2 D2 U B2 F' D F2 U B' F' L R F L R2 : x y D' F' r U' r' // xcross
+B2 L2 F2 U2 L2 D' F2 U2 R2 U2 F' D' L' F' U2 R B2 F2 L U' R' : z2 y R u' U2 R L2' // xcross
+L2 U L2 U B2 U B2 U' R2 B2 L' F R F2 R2 F U L U2 B' : z2 y U' R2 D L U2 F' L' u // xcross
+U R2 D B2 R2 D F2 U' L2 U L' R D2 U' B R' D2 U B' L' R2 U : x2 y D' R' F U' D U' R2' F R2 // cross
+L2 D2 U' L2 D2 R2 F2 R2 U L2 R' U2 F' U2 L D2 B' F2 U' B' U : x2 U R D L F' U R U' R U R' D // xcross
+R B2 L' F2 R U2 F2 R' D2 U2 B D L B2 F' L' B U F : z2 y R2' U' L2' D R U' R' U R U' R' U' R D // xxcross
+F2 D2 F B2 U' L2 D2 U' L2 D R2 L B' D2 L' D' F R' B : y2 D2 R F D' U' R // cross
+D2 R D' L2 D2 F L2 U R2 F2 R D2 F2 R U2 F2 U2 B R2 : z2 D' L' D' L' R' F U' R // xcross
+B L2 R2 U L2 D' L2 B2 D2 U R D2 F D2 R' F' D L B2 : y' U F D' F R u' // cross
+R U F' B2 D B2 F2 L2 F2 U L2 F U L B' D' B R2 F : x2 y F2' R' D' U2 R D' U R' F R // xcross
+L' D B' U2 R D' F2 L' D' L2 F' B L2 B2 R2 B U2 B U2 : y U' r' U' R' F R D // cross
+D' L2 B' R2 D F2 D' F2 D R2 D2 R' D L B2 D' L R' F' : y2 U R2' F R D2 U R L' U L U' D // xcross
+D' L2 B2 L2 U' F2 L2 F2 D2 F' R U2 F' L2 U' R' B F2 R U : x z' l D' L' D' F' // cross
+R' U' L' B D' F2 U' R2 F2 D2 L U2 R D2 L2 B2 L2 B2 D' B' : x2 L' F' U L2 // cross
+F2 R2 U' B2 F' U2 R2 B2 U2 F' L' D' U B F R2 U2 : z' y D' r' R' F D F' R' U R D // xxcross
+R L2 F2 U2 F2 D R2 U' F2 R F2 R' U2 B D' B L2 B2 L : x y2 r' U' L' R2 D' R' D' R2 // cross
+D' F' D' B2 R U R' U L' F R2 L2 B' L2 U2 R2 B2 L2 B2 : z2 y U D' R' F R D R' F R U' R U R' D2 R // xcross
+B' R D F B' R2 U' R' L D2 R2 U' F2 R2 D F2 L2 F2 U' B : x2 L F D2' U2 L' F' L' U' D // cross
+B D2 L' F' D R2 U R2 B2 D U' F2 U R U2 F' L2 D' F' R2 :  
+D2 R' F B' U R' L' F' R' D F2 D2 R2 F' R2 U2 D2 F' U2 F2 D2 : z y' R' r D' L R' D u // cross
+B R2 B2 R2 F' R2 F R2 U2 F' L' D L' D' L' D R' U' B F : x' y' D R' F U2 L2' // cross
+F D' L' U2 R D2 F2 L R' F2 L' F' U' B U' F R D R : x R' D r u' R' U D' // cross
+R2 D L D B2 L2 R D2 L B2 R2 D L2 B' L2 D2 U : x2 y D' U' L' F' U L' // cross
+R' F2 U2 B2 D' F2 R2 D' F2 D2 B D2 U' R2 D L B' D B2 : z2 y U L R U' R' F R D' R // cross
+B' U' L' D2 L' R2 D2 U2 B2 L U2 L2 D B' D U R2 B D2 : z2 y D x R2' U' r' U' D' // cross
+D R F' L' D R2 F D' F' L2 U2 D L2 U' R2 U' F2 B2 L2 B' :  
+L2 U R B R2 D' B D' R2 B2 D R2 D' F2 D F2 B2 U R2 : x y2 r2' U' r u' r U r' R' // xcross
+R2 U' R2 F2 R2 D' U L2 B2 U B' D F2 D2 B U R D' U R' U2 : x2 D' r U2 L l D // xcross
+U B2 F2 L2 D R2 D' F2 U' B2 F' D R2 U' L F' R2 D F2 L' : x y2 U2' R U R U' D U' L U L' y' R' // xxcross
+R2 D F2 D' U' L2 R2 D' F2 D F' L' F' D B' F D2 B2 D F2 U' : x2 y U R' F D' U' R' F R2 y r U' r' D2 // xxcross
+R2 B2 F2 L' F2 U2 F2 R B2 U2 R' B D U2 R2 B2 U' R F' R2 D' : z r U' R' F U2 R D U2 L' D // xxcross
+U2 B U2 R2 F D2 L2 B2 L' F' U2 R2 D F D2 R U R B D2 : z2 U' R' F D' R F R2 U2' R' F R // xcross
+U2 R2 U' R2 F2 U F2 R2 U' L B F D B U2 L' D2 L' D R : x y' L U L F' R u R' u // cross
+D L2 D R2 D' U2 L2 U' F2 U2 L U B' F U F2 D' B F2 U' : z r' D R D L U' D // cross
+F2 U' B2 D2 B2 L2 U F2 D' F2 R U F2 D2 R' F' D2 R D' F2 U : z x2 D R' D L D R' // cross
+L2 R2 U B2 D' R2 D2 F2 D' B2 R' B L2 R B D' B2 D U' F : x2 D2 U R' D' R u // cross
+L2 U' B2 D B2 D2 B2 U F2 L' U B' U L U2 L B' D' L' R : x' y2 U' R' B' F' r U' r' // xcross
+D' R2 U' F2 D' R2 B2 F2 U2 F2 R' B' D F D F' U2 R2 B D : y R D R2' D R U' D // cross
+L2 F2 L2 U2 F2 U R2 U2 L2 U R D B F' D L2 R B2 L' D : z2 y R F' D U L U F' u // cross
+D' F2 D' L2 F2 R2 B2 D B2 U R' B' U F D' F' D B' R D2 F : y2 R' B' R' F2 R D2 R2' // cross
+L2 R2 U2 F2 R2 B2 L2 U' F2 D2 L' U2 L2 U F' D' U' B' F' R' D' : x2 y F' R' D' R2 D' R' // cross
+U' F2 U' F2 D L2 R2 U R2 B2 L' B D2 F' R B D' U' L F D' : y2 U R U' R y' R2' F R2 U' R' u // xcross
+L2 D2 R2 B2 U' B2 U' F2 D' L2 R D F L R2 U2 F R2 B' F R' : z2 y D U' R' F R L U R U R' D U2 L2' // xxcross
+D' B2 D B2 D2 L2 R2 D F2 R2 F' D' U' R' F' U' L B' F2 L D2 : y U R' F R2 D' R' F U' F' D' R U2' R' U R2 U' u // xxcross
+B2 R2 B2 F2 U2 B2 R2 F2 L2 U2 R F' D' F2 U2 F' R2 B L' D2 : x' U' x R2' D F U' F R D U' R U R' d R' U' R D // xxcross
+D L2 D2 L2 U2 R2 F2 D' B2 U L' F R B2 R2 B' U L U L : x' y2 D' U' R D' U R2' L2' // pseudo xcross
+B2 L2 U' F2 D B2 D' F D F2 L F2 R B' F L R B2 U2 : x2 y U R' U2' F R' D L R' F R D // xcross
+D R2 B2 F2 U F2 U L2 U' F2 L' B R' B' D F' D2 B U R2 F2 : y U' D' L F' D' R' // pseudo xcross
+L2 U2 B2 D' B2 R2 F2 L2 U' L U2 F R' D B' F D2 B2 U : x2 U' R' F D' R2 D2 // cross
+D2 B2 U' F2 U' F2 U R2 U2 L' B' L' U2 L U B2 U2 R U2 : y2 F U' L' R U' R L' // cross
+D U2 B2 L2 B2 F2 U' B2 R2 D B' R' F U F2 D U F' U R U' : x2 y F2 U L D L2 F' L' D // xcross
+U' L2 F2 U2 L2 B2 D2 F2 R2 U B U B R U B' L B' U' B U : x' y2 r' U D' L F' L2' R D' // cross
+D2 B2 D R2 U' R2 U2 B2 R2 F L' F2 D' R B R2 B L D2 : z y2 U' r' U r R2' D' U L2 F' L2' // xcross
+L2 F2 L2 B2 D B2 U' F2 U' B2 R' U R' U2 R U B' D' L D' U2 : x' r' F D' R U' R' F2 R2 U' u' // xcross
+L2 B2 D' B2 L2 F2 D' R2 B2 D L F' R B L' B2 D' L' U' L F2 : x2 y L' B' R2' F' U2' R D // xcross
+F2 U' R2 U' F2 D2 B2 R2 B2 U F' L D2 R D' L2 D2 R2 U' F' R : z' y' U2 l U' R' F R u' L u' // xcross
+U2 R2 U L2 R2 D' L2 B2 D2 B L' U2 F2 L D U2 F2 L' F U' :  
+B2 D2 L2 F2 L2 F2 D' F2 R2 F' R D' U2 R' B' L' U2 B' D2 : x' y2 r F' R2' D2 // cross
+U R2 B2 F2 D' B2 L2 R2 U2 F2 R B2 D' F2 U' R B F D B2 : z y' F' R L2 F' L' y' D' // cross
+D B2 R2 B2 R2 F2 D' F2 D U' B R2 B2 R D' F R2 B' L' D2 B U' : x' U r' R' F U' D' L U L // xcross
+B2 D' L2 B2 L2 R2 U2 L2 B2 U' R D' B L B2 U' R D' B D' :  
+D2 U' B2 D' B2 L2 U2 L2 F2 D B U' L2 F' L2 D L B' R2 U R : z2 y R F U' R U2 y' R U R' D R' F R U' y L // xcross
+U' L2 R2 B2 D' L2 F2 U B2 U' B D' L' F2 R' B2 R F U B : x2 y R' F2 D F' D2 U' R' U R2 // xcross
+D' B2 D F2 D2 B2 U F2 L2 U' R F' L' U2 B2 R' D2 B2 U' B' F2 : z' y r' U' R F D' U R' D2 // xcross
+L2 B2 L2 F2 D2 R2 U' F2 L2 D' F L F' R B L2 U' R F2 D' : z2 y R' U' R u R' F U' D r U' r' D' // xcross
+B2 F2 D B2 U L2 D2 F U B F L F' R' B' U' L : y' L U x' R2 F D L' u' R U' R' u' // xcross
+F2 D2 U L2 U2 F2 R2 B2 U2 B2 L B' F R F' L2 F D R' : x2 y U2 R' F D' R2 D2 F' u' // cross
+L2 R2 B2 U F2 U' F2 U F2 U' L' B L D R B2 R' D B' F' L2 : x2 y L U' R2 D L2 U2 L' d' r U' r' // xcross
+U2 R2 F2 L2 U L2 U2 F2 B2 U2 F' D R2 B D2 B2 R2 B2 U' : z2 y R F2 D L' R' F R F' D' R' U' R D' // xxcross
+F2 R2 F2 B2 U B2 R2 D' B2 R2 F R' U2 F' D' B R2 L U2 R U2 : x' l F' D R' U' R' F R // pseudo xcross
+U L2 F2 U L2 U' F2 L2 U' B2 R' U' R2 D B' R2 D' U' L D U' : x r' U' R' F R2 D U' L2' u' // xcross
+D' L2 R2 D2 L2 D F2 U' L2 B2 F L2 D2 R' B' R B R2 D2 : x2 y L D' L' L L' F' R' U R U' L' D2' // xcross
+B2 F2 R2 U' B2 R2 D2 B2 R2 U F' R2 F2 U' R B' L2 D2 B R2 : x2 y U F' D' U' R D' L F' L' F u' // xxcross
+D' F2 U L2 D2 L2 B2 D L2 U2 L' R2 D B' D B2 U' R2 F' L' D2 : x2 U' R U' R2' L F' L D // xcross
+B2 L2 D' L2 R2 D B2 R2 B2 U L U L2 U F' R' B R' B2 L U' : x r' D' L U L F' u R D2 // cross
+B2 U F2 D R2 U R2 F2 R2 U F' U' L F2 L B L' U2 F R' B' : x y2 U' L D' l' D2 U2 R2 D // xcross
+R2 B2 R2 U' L2 D B2 U2 R2 D L' F U L R F2 U B R U R2 : y' F' D U L D' L U2 r U' r' // xcross
+D' F2 L2 B2 R2 F2 R2 D' F2 D2 F' L U2 F U' R2 U2 R B' U L' : x2 y U' L F' D' R' U2' F2 U D' L' U L u' // xxcross
+B2 U' B2 L2 U2 L2 F2 D L2 U R B' R D L U F' L2 U B' R : y D R' F D' L R' // xcross
+L2 D2 B2 D' R2 U' B2 F2 U2 B2 F L2 U' F' U L' R' F' D2 F2 U' : z2 D U' L F' L2' U R D' R' F R // pseudo xcross
+R2 U' B2 F2 D' B2 L2 B2 L2 D' B U F' L' B D2 R' F' D F' U : x2 y D F' L D L2' U R' // xcross
+L2 R2 D R2 D R2 D2 U' R2 D F D L' U' L' F2 R D B' F' R : x F R D R' r D L' R U' R2' U' R D' // xcross
+D2 R2 U L2 U2 B2 L2 B2 D' U' R F' R B U F' L' F R' B R2 : x2 L2 F' L2' R B' E R2' u' // xcross
+D' F2 U L2 R2 U' B2 U B2 L2 F R2 F2 U F D' F2 L F : z y r R2' D R2 U L2' // pseudo xcross
+D2 R2 F' R2 D2 F' R2 U2 B' D2 F' R' U R2 D' U2 B R2 F' L2 R : y U D' R F U' u' l U2 l' // xcross
+F2 D' R2 U' B2 L2 U' B2 U L2 R U2 L' F2 L2 D2 F' U' B2 F2 : x y2 U' R2 L' u2 L' U L2 U' F' L' // xxcross
+B2 L' D2 L U2 L2 U2 F2 D2 R B2 F' L2 F' D R2 F R B2 L' D : z2 r' D U x' R U R' F R // cross
+B2 R' U2 L U2 R2 F2 D2 R' U2 L' D L' B L2 F2 D' B L B : x' r' U' D L' R' L' U R' U' R2 U' U R' u // xcross
+B2 D2 F2 U2 L2 B' D2 F' L2 R2 B D L F L U B' F' U R' : z' y' r' U R r U' r' D L' D U' u // cross
+D' B2 U B2 R2 F2 U2 B2 D' R2 U2 L' B' L2 B' F2 D L2 F' R B : y' R2' D R y' L' U L u' U' R' // xcross
+F2 L2 D' L2 B2 D' U B2 R2 U' F U F2 U R2 F D2 L F U2 R' : x' U R D' R U' R' U' R D2 // xcross
+F' L2 U2 B' L2 U2 F2 U2 R2 F R F D2 F2 D U' L' B' D L' :  
+R' F2 L F2 R2 U2 B2 R' U2 R' D2 U' B L' D' L F R2 D' F' L2 : y' R D L' u U' F R // cross
+B2 F2 D L2 R2 D2 R2 U2 F2 L2 U' L' D U2 F R' D' L2 F2 U F : z2 y F' U' R' u U' L2' u' // xcross
+D' R2 D' L2 U L2 U' F2 D' R2 B2 L D R D' B' R U L' R2 B F : y' R B U L U' L F' u' // cross
+D B2 D2 L2 U' B2 U R2 U F2 D L R2 U R B' F2 L' U' R2 F R' : z2 R' B' R U' R r U' r' U D // xcross
+B2 F2 D' B2 U' L2 D' B2 U L2 U' L D L' U2 R2 F' U2 L U B' F' : y D' F r2 R F R' // cross
+R' F2 L2 D2 F2 R2 U2 L' D2 F2 D' R2 D' U' R U B F' D L : z2 y L2' U2 R F R2' D' R2 // xcross
+R' D2 F2 L2 R B2 U2 B2 D2 L' F2 U' F' U' F2 R D B2 U' B2 L : x2 L U D' U R U' R2' R' F2 R L // xcross
+B' U2 R2 D2 L2 F U2 L2 U2 B2 U L2 F' D' R F R2 B L D' : x2 U' r' D' r d' R U2' y F' L U' R' U' R D' // xxcross
+U' R2 D' L2 U2 L2 F2 U' R2 U L' U' B R' D' F2 D B L2 F R2 U' : x y2 L U l D' F R // cross
+U' B2 F2 U' B2 L2 B2 F2 D' R2 F R' D U R' B2 L2 U R' B' U2 R2 : z2 y D' R' F R L2' D' R u' // cross
+U' R2 F R B' U B2 F2 D U' B2 U L' D2 U' F' L2 B D : z2 R U' F R' D d R U R // xcross
+F2 D L2 D2 F2 U F2 U L2 B2 F' D2 L' B' F' U B L' R2 D F' U' : z y' r' U' D L' R' D' R' L U' L2' U L // pseudo xcross
+D' F2 L2 U R2 D2 U R2 U R2 F D' R B2 D2 B' L' F' U2 B R' : x' D R' B' r U2' r' F // xcross
+D' B2 U' B2 F2 D U2 L2 F2 U' R' U2 B U L U' R2 D L' D2 R2 : y2 D F' R2 D L' D' // cross
+F2 L2 D2 B2 R2 F2 L2 D B2 U2 F D' L2 D' L D F2 D' B' F2 L' : x2 D r U' r' d L' D' R2 // xcross
+F2 U' L2 B2 R2 B2 R2 U2 L2 D B' L' B2 U2 F' R F2 D' L D' F : z2 R2' U2 L F' U L' D U F' U' r U' r' // xxxcross
+U F2 R U2 F2 L' D2 U2 R' U2 B F D U2 L U2 F2 U2 R2 : x2 y R' F' D2 R2 U F' U' u' // xcross
+F2 R2 B' L' B2 L U2 D2 F' D L2 F2 D' L2 B2 U' L2 D' R2 F2 : x2 D R D2 F R // cross
+D' R' U' B' U R' B' R L' B' L D B2 R2 U D B2 R2 F2 :  
+F2 L F' R2 D2 F U2 L2 U2 F2 L F2 U2 F2 R' F2 : z2 y U D' R F R' u' // cross
+U' F L' D' L' F B D F2 D2 B R2 U2 F2 L2 U2 B' D2 F : z y r' U' R2' D R d R' U R2 U' R' D // xcross
+F L2 F L2 F U2 L2 D2 L2 F U B2 R F R U' L U' L2 : y x' B' U R' F U' R U2 R // xxcross
+B2 R2 F2 L' R B2 F2 R U' R' F2 R D2 U2 B L F' R2 U : x2 R2' L2 D' L' U' D' r U' r' U D // cross
+L D2 F' L2 U R2 D U L2 B2 R2 B2 D2 R U F' L' D' F R : z y U r u' R' U L2' U R' F2 R // xxcross
+D2 F D' B' R L' F D B2 R2 B2 R2 U' D2 R2 D2 L2 B U' : z' y U' D r R U R2' // pseudo xcross
+R2 D L2 U' R2 D' B2 D L2 U' B' U' L U2 L F L' D U' B' F : x2 R' F u' F D U2 L2' // xcross
+D F2 D R2 D2 L' D2 R B' U2 R' B2 R' B2 U2 L' B2 D2 R : x y D' U' F R2 U' D // cross
+R F' B2 U2 L2 U' B2 D2 U F2 U2 L R' B' U' R U2 R D : z2 U' D' x R2' U' R r' u L' // xcross
+U' L2 F' U R' B R F R' B R2 L2 B R2 F2 U2 F' D : y R2 D2 U' U' R' F // xcross
+B R' B2 U' B2 D2 L2 D R2 U2 B U B D' R' U L F2 L : z y2 R' F' R L2' U L2 // xcross
+B' R2 F' D' F B2 R U' D F2 D2 B U2 F' U2 L2 F2 B L2 D2 : z2 L F D2' L' u // cross
+L2 D F2 D' B2 D' L2 D' L2 U L' D' R' F' D2 L U' F R2 D : z2 y U' R F' L D' U L // xcross
+L U2 R' L U' D2 B' L D' R2 L2 B2 U' D' L2 U R2 L2 F2 B2 : y2 r' D' F r u' // cross
+U' L2 U' L2 B2 D U2 L2 F2 D F' L' R' U B2 R2 B D L' F D : y2 D L' u L' R2 u2' U F U R' F2 R // xxcross
+D2 F2 U2 F2 L2 U' L2 D B2 U' L F' U' R' F' L' U F2 U2 B L U' :  
+D2 F2 U R2 B2 L2 U2 F2 D L U F D' L' R2 D' B2 F D' U2 : x l' L2 F' L2' u // cross
+F2 L2 U' F2 D B2 U2 L2 U' F2 R D' F2 U' L' D2 B U2 F' D2 U' : x2 y L u' R' U R' F // cross
+L2 D U2 B2 U2 B2 R2 U' F2 L2 R B' F2 D B2 L2 U' B' R B F U' : x' y2 U D l' U D R' F R U2' L' U L D' // xcross
+L2 D R2 D' F2 L2 B2 F2 D' U' F L2 U R' B' L2 U' B2 L B R2 F2 : y2 r' R U' r' U D L2' // cross
+F2 D2 F2 D' F' B U R L D B U2 L2 F2 D2 F2 D2 B2 L : z2 y R2 B D R U r U' r' // cross
+D R D2 B' F2 D2 F' L2 F' U' L2 F' U' R D' F2 U L2 : x2 y R2' F2 D U L U F' L // xcross
+F' R U B L2 B2 F' R2 B2 L2 F' R D2 R2 B U' R F2 D : z2 U' F L' D' F2 R U r U' r' D2 // xcross
+D2 F2 U' L D' B U L' F2 R' D' L2 D' B2 D2 B2 L2 B2 U' L2 : z y2 r2 U R2' D R L' U L2 U L' E' // xcross
+F L U' R2 F2 L B' R' F' L D2 R U2 L2 U2 L' F2 U F' : y' x' F U' R2' r // cross
+L2 R2 U F2 U L2 F2 D' R2 D2 F U R2 F2 U' L' B' R' D' B2 U' :  
+R2 U B2 L2 D2 L2 D' L2 B2 U2 B' R F L' D2 U2 R D B L' U' : x2 F R' D' // cross
+B2' R2 U2 F2 D2 F2 D' R U D B D2 B' L F' B2 D F U2 : x2 D' L R U' R2' F // cross
+U' F2 U' L2 D L2 U' B2 D L2 F L' R' B' F2 D2 L D F2 U2 L' U2 : x2 y D' R F D' R' F' // pseudo xcross
+U' R2 B2 U L2 U2 R2 D' F2 D R U' R U L' D' U F2 : x2 R2' F2 L D' L' D // cross
+D' U B2 F2 D F2 R2 U' L2 U' R' F L2 U' F2 D B R' D' B' L : y2 U D' R r' D' r // pseudo cross
+D2 U' R2 B2 L2 B2 D B2 L2 D2 B' U' R' U2 F2 D' B F D B' R : y' U2 R2 D R' U' R' u' // xcross
+D L2 R2 D' L2 D2 F2 L2 U R2 B D' L U' B' D' L B' F2 D' U' : x2 z R U' L' u' L' D' R' y' U r U' r' // xcross
+R U2 L2 B2 U2 L2 U B2 U2 L2 F2 L B L' D U B2 F' D' F2 : x2 U' R' F U' L2' // cross
+B' R L2 D2 B' U' L2 B' L' U D2 R2 U' F2 U' L2 F2 R2 U2 : x y D' R D' U' L D' // xcross
+F' L D2 B D2 F U D R B' D' F2 L2 F2 B2 U B2 U' L2 : x2 r' D' r U2 R2 U' D' // cross
+U' R L2 F2 B R2 D' F R' U' F2 U2 L2 D' L2 D F2 B2 U2 B' : z2 y D' U' R u' U' R' U R L' F' L' // xcross
+F U' F' R U F' U B U D B2 D2 L2 B L2 B' D2 : x2 F R2 U' D2 // cross
+R2 L F2 B' U' D2 R' L D B U2 F2 L2 F2 R2 D' R2 B2 U' F2 : x y2 U r U2' R2' F2 R U' R' u' // xcross
+B2 R B2 R B2 D2 R B' D U2 R L U2 D2 R2 U2 B2 L' B2 L : x z2 r U' R' U R' y' R2 U' R U R' D2 // xxcross
+R' B2 R F2 D F2 L' B L' F R' L' D2 R2 B2 D2 L' B2 D' : z2 y F R2 B D R' F U' R // cross
+B F U2 B' R2 D2 R2 F' L2 D F2 L' D L2 B2 L B2 U' B' : z2 R2' D' L' U L' U' R U' R D // xcross
+L' U' B' D F D L U B2 U2 L2 D2 B D2 B2 D' B' L : x2 y R U2' R2' U' R' F R U L' // xcross
+R' U2 L' B2 L' B2 R2 U2 F L2 B D2 U' B L B U' L R2 : y2 R' F R y L' U L2 U' L' R' F R // xcross
+R2 F2 U2 R2 U R2 D L2 R2 D L F' L D2 F L' B D L' D2 :  
+U2 B' D2 R2 F R2 F' L2 F' D2 F' L' U2 B2 U' L' R B D R2 : x2 D R' D L U' L U L' U' R U R' D' U2' R' F R // xxcross
+B' L' D' L2 F B2 L D B D2 F2 L2 B' L2 D2 F' R2 L2 U2 R2 : x2 L F' U L // cross
+B L2 B' L2 B U2 R2 F' L2 U2 B R' U2 B F2 D' L' R : z' y D R D' L' l F l' R' u' D' // xcross
+D2 B2 U2 L' U2 B2 L2 B2 U2 R U2 R D' R' U2 R B' U2 F' D : x' z B U' R r' D r U' r' u U' L' U L' // xcross
+D2 R D2 L D2 B2 D2 L2 R' U2 F2 R2 U B D2 U' B D' L2 F' U : x' y' D R B U' B R2' D U L F' L' // xcross
+R U' R U L B' U' R B2 U2 B2 U2 L2 U2 D2 R' B2 R U' R' B' : z y2 U' R' F R U D L' u // cross
+F' U2 L' U D' F' L D' F2 D2 F' R2 U2 D2 F' L2 B2 R2 F R2 : z y2 r' F U r D' r U' r' D // xcross
+D' F2 L2 D' R2 F2 U2 L2 U' B2 U F' L R B D B2 R B2 D : z2 r' U r R D y' r' U2 r R U' R' U' L U L' R' U' R D' // xxcross
+R' D U2 F L2 U2 F U2 F R2 B2 R2 U B U L' F' D F2 L : y' U R' F R' D' R2 D' // cross
+R' D2 F2 L' B2 R U2 L2 R' B2 D' R2 F L D2 U' F L2 D' U' :  
+D' B2 U' B2 F2 U' L2 R D U F2 L2 F U' R2 B L' F' R' : z2 y D L U' R' F R' D' // cross
+B2 R U' L2 B2 D L2 U L2 B2 D B2 F U' B R2 D' U' L U2 : z y2 R' B' D R' F U2' R' // xcross
+L' D' B' L2 F' R2 F2 L2 U2 F' D' U' F R2 B2 U2 L' D2 : y2 D r R' U R u' U2 R D' // xcross
+R L F2 L2 F2 U D2 F' R' F2 D' B2 U R2 U2 L2 U' L2 B' : x' z U R2' U' F D' // xcross
+D' B2 F2 L2 U F2 R2 D L2 F2 D' L' F2 L2 F' R' D F' U : x l U' D' R D U r U' r' U D' L U' L' U E // xcross
+B2 L' U' R2 B2 U' B2 F2 U' F2 U2 B' D L' B' D2 L U2 R' : z2 y D U2 L F L' D L2' // xcross
+D L2 D' F2 D' F2 U' L2 F2 D' R' U F D' L R D2 B' D2 L U' : y' F2' U L2' R u2' L U' L' U R2 // xxxcross
+D B2 D R2 F2 D2 R2 D' B2 F2 L F D' B F2 U' B L2 F2 D' : z2 F D' L F2 R' u' L U2 L' D' // xxcross
+F2 U F2 U R2 F2 D' F L2 D R' F2 B2 L' D' R' U B U2 B2 : x z2 l D R F' D U' L F' L2' U L D2 // xxcross
+R2 D2 R2 F D2 F' L2 B U2 B' R2 D2 U F R F' U2 F2 L B F' : z' y' D' R' F L' U L D2 // xcross
+R F2 R2 U L2 F2 L2 U' B2 F2 D' F2 B' R B2 L' F2 D' F' L U' : x' y2 R F U' r' u R // cross
+R2 U2 L F' L D2 F D F2 U2 R2 L2 U' L2 B2 D F2 B U' : x r R2' D R2 D' R2' D // xcross
+B' R2 B L2 F' R2 U2 F R2 B' R' D' L' R' U F D2 L2 D : x r' D' L' D' F L D' // cross
+B' R' F U' L D2 R F2 B2 D' L2 F2 B2 D R2 U2 F2 U R' U' : z2 y U' R' F R2 D R U' U' R' D // pseudo xcross
+L2' U B2 D R2 U R2 U2 B' D F L U2 F' D' L U2 R2 D :  
+R2 B2 L2 D U2 R2 U R2 F2 R2 F' L U' F L B' D L R' F' R' : x2 y R' F R U D' R F R2' // cross
+L2 B2 L2 U2 L2 R2 D' L2 U2 F' D F2 L' B D' R U' L D U2 : x y2 D r' F2 D' R u' R' F R L' U L u // xxcross
+D2 B2 U' L2 U2 F2 R2 D L2 D' L' F' L' F L R U L B' F2 : z2 B' U' R D R' D' R // pseudo xcross
+B2 F2 U R2 F2 U2 R2 D U B2 F U2 F L2 B U F' R' D' L2 U : x' y' R' D L' R' U' D' L2' U L U D2 // xcross
+R2 F2 U2 B2 D' R2 D L2 D F U2 B' D U2 B L' U2 L' D2 : y' L' R' U R' F R D U R' F // xcross
+D B2 R2 B2 R2 D2 U F2 D B2 L' D2 F2 L D' B L2 F2 L R' U' : x y F U' R2' D2 R U R' F R // xcross
+D2 R2 U L2 D' U' L2 U R2 U2 B' D B2 F' R2 D' B D2 L U' R : x r' R' D F' U' D' R2 U' R2' u' // cross
+R2 D2 F2 U2 R2 B2 L2 D' B2 U2 F' D B D2 R B' D' B2 F' : y' B' U L2 U' R' F R // pseudo xcross
+B2 U' L2 D' B2 D' B2 F2 D' U2 F L2 F' L2 U B D U L U B2 : x D R' U2' x r U' r' U R U' R' u // xcross
+U' B2 D L2 F2 U2 B2 D2 U' F2 R' B' U2 B2 L2 D B' L' B2 U L' U' : x U2 l U L D' U R // xcross
+D R2 B2 U' L2 D2 U' F2 L2 U' L' B2 L2 F U R U L' B R' U' : y2 R' F R y' r U' r' D' U' R U' R' D y' r U' r' u // xxxcross
+D' B2 U' D' L2 U F2 D2 R F U' R U' F R' B2 R D2 B R : x R' D' r D' R2 u' // cross
+F2 L2 U' R2 U' R2 U L2 D' B' L' F2 R D U L2 D2 F' D2 U' : y2 L D L' R2 u' U2 R' d' U' r U' r' // xcross
+F2 R2 U' D2 L2 F2 L2 B2 D2 R' F U2 L' F U D R L2 D2 : z2 R2' D2 R F R // cross
+D2 L2 U' L2 F2 U L2 U' L2 R D R2 B2 R F' D' R F2 U : x r' U' R U R' U D' R2 d R' U R D R2 // xxcross
+U' F D2 L2 B2 D2 F2 L B2 D R2 F' R' U2 B2 R' B F2 : z2 y R F R2' D L' F L' U' L D' // xcross
+U' F2 D L2 D U2 L2 D F2 U B F L B2 U B' F' L2 B' : y2 F' D' R' F' U D' R2 D // pseudo xxcross
+L2 R2 B2 D2 L2 U B2 U' B2 F2 U' F' R2 B2 L D' U2 F' R' U2 : z' y2 D' R2' B' // cross
+D' R2 L D R2 F L2 B R2 D2 F' D B2 U B2 U2 R2 F2 : x' y F R' D' U L2' D' U' R2 // xcross
+D' L' U D B2 R' F R L' B U2 F U2 F2 U2 F' U2 F2 U2 R : x' y2 U B2' r' R2 U D' R' D // xcross
+L' F2 U B R2 B' L D R' B2 L U2 R' F2 R U2 R U' L2 : z y2 D2' L D R2 D // cross
+U2 B2 U2 B R2 U' L' F2 R' B U' D' L2 F2 L2 U' B2 R2 : x y2 L U F' D' R' // pseudo cross
+B2 F2 R F2 L D2 F2 D2 B2 R' D F2 D2 F' R U2 B U2 L : x' y' R' U l' U L2 U R' F R U2' D' // xcross
+L D L R U2 B2 R2 U2 R' D' R F' R' F R D2 L B' : x2 D F L' U' L2 F R' F' // xcross
+F B U R2 L2 F' R' U D' B2 L' D2 B L2 B2 D2 L2 B2 U2 : x2 D' L U2 r U' r' D y' L // xcross
+B L B2 L2 B L2 F R2 F L D' U2 R2 F' R2 F R' U' : z2 y L U D' R' F R2 U' L D' // cross
+L B R U' R2 L' B' L2 D' F2 R2 L B2 R U2 R2 L' U' : z2 U' R' F D' R U L U D' // cross
+R L2 U F2 D' R2 U2 L2 U R2 U B' D' F D U2 R' F' R2 U : z D r R' D L2' D' L U L' F D // xcross
+U2 L2 D2 L2 U' B2 D U' L' B' F2 D2 F U F' L' B' F : z' y D' L u' U' R' F u' U' R' F R U L' U' L D // xxcross
+B D F2 L2 D L2 U' R' F D U2 L2 F U2 B' U2 L R : x2 R F R' D R' F R // cross
+D' L' F2 R2 U F2 D' R2 U' R2 U F' L2 B F' R' U' F' U' : y U' R' F R' L' U' D' // cross
+D2 B2 F2 L2 B2 F2 D' U' F2 R' B' D F' U B2 L2 D' L' R : z R' D F R' U' l U' l' D L2 F' L2' // xcross
+F2 R' U L D2 B2 F2 L' B2 L' R' U' L2 D2 B R' F' U' B : y2 D L F' U' R u R' U R2 u' // xxcross
+F R B2 R B L2 U L D2 R2 D' B2 D' B2 R2 F2 U2 F2 U' F' : z2 l U r U' r U' r' // cross
+R U' D B R' F U2 D2 B' U' L B2 D' B2 U' B2 L2 : x2 R' D R' F D' R' // xcross
+D2 B L2 U2 L2 U' R D R' U D B2 U D2 B2 D2 F U' : z2 y L D R' U' D L2' D R' D U R U' R' D // xxcross
+R2 B2 U2 L2 F2 U2 F2 U2 B R' B' R F' D R' F U F2 D : x2 y R' U' F B' U' R' y' r U' r' // xcross
+U' B2 L2 U2 F2 D2 B' U2 B U' F' D' F2 L F2 U' R' B2 L : z2 L2' D' R2' F R D' l U' l' // cross
+L2 F' U L' U2 B2 L F2 L2 U2 F2 R' F' D B' R' : y2 B' U L2 D' U2' L' u L' U' R' F R2 U R' D' // xcross
+L2 U R2 F2 D2 L2 U F2 D B2 U B' U2 F2 D' U' R U2 B R2 :  
+R' F2 B2 L' U D2 R' D2 F2 R2 F L2 D2 F' R2 F R2 F U : z' y2 U R F R2' E' // cross
+L D' F B2 D L B' U2 B2 L' U2 F2 R2 F' L2 B2 D2 B' D2 : x' y2 R' D' R' F B // cross
+B2 R U2 F2 L R2 F2 R D2 F' L' R B' L U F' D' R2 F' : y2 U' R' F R2 U' D' B2 U R2' U' R u' // xcross
+U L2 F2 U' F2 D2 B2 R2 B' D R2 B2 U R D2 L U' L2 R : y2 D' F R' u' R' F R L' U L // pseudo xxcross
+R2 F2 R2 D2 R2 B' L2 U' F L' D' R2 B2 F L F' U D2 L F' : y z F R2 D L D' // cross
+R2 D L2 F2 B2 D R2 L2 B2 L D' F' R D' F B2 R' F B U : y' D' L' R2 D' U' R' D' // cross
+L2 R2 F2 U B2 D L2 D F' L U2 F' R2 D2 B2 D' F U' L D : x2 L D' R' D R D' // cross
+D2 F2 D' B2 U' L2 B2 U' B D2 F' R U' R' B D R' D' L U : y2 D' U R' F // pseudo cross
+R2 D2 U B2 D F2 L2 D' R F D B' U2 F' B' D' F' B D :  
+R2 F2 D2 L F2 L' F2 R2 D L B2 D B U' L' U2 R L U2 B : z y2 x' F U2' l' U D2 R2 u R' U' R D // xxcross
+B2 F2 U R2 F2 U2 L2 U' L2 F' L D L2 B F2 R' D2 L' F L' : x' L2 U l' U' F // pseudo xcross
+U2 R2 F D2 R2 B L2 B2 L2 B R B' U L D2 L F2 U' B' U2 : y2 x U' R2' B' D R u' U R D' // xcross
+D R2 B2 F2 U F2 U2 B F2 D R2 L' B R' U B R' B2 U F2 : y x l D' U' F R D R' F R U2 R U' R' D U' // xcross
+F2 U R2 L2 U' R2 U L2 D2 L2 B' D2 U B' D' U2 B2 U2 L' F' : y' R' D' L' R U R2 // cross
+B2 D F2 U2 B2 U L2 D R B' U2 B R2 D U B2 R D B U2 :  
+L' D2 R U2 B2 D2 R2 B2 L F2 D' L2 B U' F' U D F U F' : x y D' L F' U D D R R' D' R D' D R' D R D R' D' // xcross
+B2 D2 B2 D2 R2 U' L2 U2 F D L2 B U2 R F2 B' U2 B2 R2 B' : x z L l u F' L F' L' // pseudo xxcross
+R2 F2 R2 U B2 U F2 D R' U2 D L D2 F B2 R' L2 F R' : y z' x' F U R2' F R D' U' // xcross
+B2 R' F2 U2 R2 U2 B2 R B' U' B' D R' B' L2' B' U' B2 D' R2 : z' y D2 R' F' // pseudo cross
